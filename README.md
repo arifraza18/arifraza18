@@ -166,27 +166,6 @@ A complete food delivery ecosystem containing customer, restaurant, delivery and
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifraza18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifraza18&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifraza18&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arifraza18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%" alt="GitHub Trophies" />
-</p>
-
----
-
 # 📈 Contribution Activity
 
 <p align="center">
