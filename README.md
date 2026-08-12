@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Arif!
+# 👋 Hey, I'm Arif Raza!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=650&lines=Android+Developer+%F0%9F%93%B1;Kotlin+Developer+%F0%9F%92%9A;Jetpack+Compose+Developer+%F0%9F%9A%80;Building+Modern+Android+Apps+%E2%9C%A8" alt="Typing Animation" />
